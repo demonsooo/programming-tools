@@ -1,0 +1,26 @@
+1.
+-l: print the newline counts
+2.
+      86     243    5253 /etc/passwd
+3.
+kill
+4.
+It stores the home directory
+5.
+PATH
+It indicates search path for commands
+TERM
+It refers to the display type
+They're important because they describe the environment in which programs run in
+6.
+find -name
+7.
+which command searches executable files and display its full path
+find command searches all files and display its full path
+8.
+The command “echo Hello World! > something” redirects the text to a file named "something" 
+while “echo Hello World!” just prints "Hello World!"
+9.
+It overwrites the text in "something"
+10.
+It appends the text to "something"

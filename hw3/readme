@@ -1,0 +1,3 @@
+
+If I get all the URLs at the beginning, it would be hard to extract the useful URLs at the end.
+What I did is differentiate the useful and extraneous URLs by observing that all the useful URLs staring with "<strong><a href". So I extract the contents with pattern "<strong><a href" first and then extract URLs from them.

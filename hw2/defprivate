@@ -1,0 +1,4 @@
+#CSE 374 HW2
+#Yijia Liu 1238339
+
+alias private="chmod -R u=u,g=u,o= "

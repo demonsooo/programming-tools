@@ -1,0 +1,25 @@
+#CSE 374 HW2
+#Yijia Liu 1238339
+
+
+#echo
+echo glorp
+
+#cat
+echo glorp > glorp
+cat glorp
+
+#ls
+mkdir glorp
+echo glorp > glorp
+cd glorp
+ls
+
+#grep
+grep glorp glorp
+
+#!!
+alias glorp="echo glorp"
+glorp
+!!
+
